@@ -13,6 +13,8 @@ pillow = "*"
 selenium = "*"
 h5py = "*"
 tqdm = "*"
+seaborn = "*"
+scipy = "*"
 
 [dev-packages]
 ipykernel = "*"

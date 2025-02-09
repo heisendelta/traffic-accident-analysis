@@ -1,0 +1,2 @@
+Latitude: 35.78333
+Longitude: 139.8375
